@@ -1,0 +1,6 @@
+redis
+streamlit
+python-dotenv
+google-generativeai
+pymupdf
+pathlib

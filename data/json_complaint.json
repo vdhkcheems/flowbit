@@ -1,0 +1,10 @@
+{
+  "complaint_id": "CMP-9021",
+  "customer_name": "Neha Roy",
+  "contact_email": "neha.roy@greencorp.in",
+  "product": "Smart Water Meter X100",
+  "issue": "The device fails to transmit data beyond 24 hours of activation.",
+  "order_id": "ORD-5412",
+  "priority": "High",
+  "requested_action": "Replace or provide refund"
+}

@@ -1,0 +1,15 @@
+{
+  "rfq_id": "RFQ-7831",
+  "date": "2025-05-30",
+  "requester": "logistics@freshfoods.in",
+  "items_needed": [
+    {
+      "name": "Thermal Insulated Crates",
+      "quantity": 200,
+      "specs": "40L capacity, stackable, with lid"
+    }
+  ],
+  "delivery_location": "FreshFoods Cold Storage, Gurgaon",
+  "due_date_for_quote": "2025-06-03",
+  "additional_notes": "Include transportation and GST in final price"
+}

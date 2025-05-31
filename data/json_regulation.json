@@ -1,0 +1,8 @@
+{
+  "regulation_id": "REG-DRT-2025",
+  "title": "Digital Records Transparency Act 2025",
+  "effective_date": "2025-07-01",
+  "summary": "All enterprise SaaS platforms must retain user communication logs for 3 years, with secure audit trails.",
+  "mandatory_for": ["SaaS companies", "Cloud vendors", "Large enterprises"],
+  "issued_by": "Ministry of Digital Affairs"
+}

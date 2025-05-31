@@ -1,0 +1,16 @@
+Subject: Request for Quotation - AI Annotation Services
+
+Dear Vendor,
+
+We are looking for a vendor to assist with manual annotation of approximately 10,000 images for an internal machine learning project. Please share your best quotation.
+
+Requirements:
+- Bounding box + segmentation labels
+- Delivery within 30 days
+- NDA to be signed before data access
+
+Kindly provide your quote by June 5th, 2025, along with past experience if any.
+
+Regards,  
+Priya Mehta  
+Data Science Lead, VisionTech Pvt Ltd
