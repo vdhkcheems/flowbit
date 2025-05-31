@@ -1,10 +1,10 @@
-# 💹 Multi-Agent Information Extraction System
+# Multi-Agent Information Extraction System
 
 This is a multi-agent system that classifies uploaded files, extracts structured information using LLMs (Gemini), and logs the outputs to a Redis database. It supports multiple formats and intents, and provides a Streamlit web interface for reviewing the extracted data.
 
 ---
 
-## 🧠 Agents
+## Agents
 
 - **Classifier Agent**: Detects file format (PDF, Email, JSON, etc.) and classifies the document's intent (e.g., Complaint, Invoice, Regulation, RFQ).
 - **JSON Agent**: Reformats structured `.json` input using Gemini based on the intent and extracts required fields.
@@ -13,7 +13,7 @@ This is a multi-agent system that classifies uploaded files, extracts structured
 
 ---
 
-## 🧾 Supported Intents & Fields
+## Supported Intents & Fields
 
 Each intent expects 5 key fields:
 
@@ -26,7 +26,7 @@ The agents extract as many of these fields as possible and mark the rest as miss
 
 ---
 
-## 💾 Redis Logging Format
+## Redis Logging Format
 
 Each processed file generates a Redis hash key: 
 ```log:<timestamp>```
@@ -58,4 +58,8 @@ Each processed file generates a Redis hash key:
 ---
 
 ## Output Screenshorts
+![Screenshot_20250531_221234](https://github.com/user-attachments/assets/3fdd94d4-f153-4276-bda5-b6c3af06a77e)
 
+![Screenshot_20250531_221330](https://github.com/user-attachments/assets/fb34b8fe-7e3b-42ce-91e0-04839fd1c5f6)
+
+![Screenshot_20250531_221303](https://github.com/user-attachments/assets/6eed522c-2630-40bd-b825-8aa99773915e)
